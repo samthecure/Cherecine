@@ -1,4 +1,4 @@
-# Cherecine
+# Chèreciné
 Chèreciné est une application web innovante qui permet aux cinémas indépendants de créer un lien plus fort avec leurs visiteurs. Grâce à Cherecine, les utilisateurs peuvent découvrir les dernières actualités, participer à des sondages pour choisir les prochains films à projeter, et interagir avec d'autres passionnés de cinéma.
 
 Fonctionnalités Principales
